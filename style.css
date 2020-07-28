@@ -51,7 +51,7 @@ input[type=text] {
 #info {
 	font-size: 20px;
 	padding: 20px;
-	font-family: 'Roboto', cursive;
+	font-family: 'Roboto';
 	padding-left: 30px;
 	background-color: #aaa;
     float: right;
